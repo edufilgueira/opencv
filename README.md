@@ -1,4 +1,4 @@
-# opencv
+# OpenCV
 Projeto embrionário de processamento de imagens
 
 
